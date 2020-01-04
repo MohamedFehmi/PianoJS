@@ -31,6 +31,16 @@ body
     border: 1px solid #333;
 }
 
+.white.active
+{
+    background-color: #CCC;
+}
+
+.black.active
+{
+    background-color: #333;
+}
+
 .black
 {
     --width: 60px;
